@@ -55,7 +55,7 @@ BOX <TABS>
                 , "Enrolled for" : isEnrolledFor cRUD
                 , "Course" : takes CRUD
                 ]
-     , Course : V[SESSION*Course]                cRuD
+     , Course : V[SESSION*Course]                CRuD
        BOX <TABLE>
                 [ "Course" : I                   cRud
                 , "Modules" : isPartOf~          CRUD
